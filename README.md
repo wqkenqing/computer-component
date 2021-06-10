@@ -1,2 +1,3 @@
 # computer-component
-计算组件
+
+computer component of datacenter
