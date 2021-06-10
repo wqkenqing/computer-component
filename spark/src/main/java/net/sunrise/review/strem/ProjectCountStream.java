@@ -22,7 +22,7 @@ import java.util.List;
  * @author kuiqwang
  * @emai wqkenqingto@163.com
  * @time 2021/6/10
- * @desc updateStateByKey
+ * @desc updateStateByKey实现
  */
 @Slf4j
 public class ProjectCountStream {
